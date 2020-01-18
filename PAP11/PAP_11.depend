@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1527917538 source:d:\animeart\pap_11\fungsi.c
+	"header.h"
+
+1527917022 d:\animeart\pap_11\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1527917374 source:d:\animeart\pap_11\main.c
+	"header.h"
+
+1527917376 source:f:\algoritma dan pemrograman\pap_11\main.c
+	"header.h"
+
+1527917024 f:\algoritma dan pemrograman\pap_11\header.h
+	<stdio.h>
+	<stdlib.h>
+
